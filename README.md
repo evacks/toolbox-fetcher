@@ -5,10 +5,10 @@ This repository hosts my personal archive of little distroboxes and accompanying
 
 ## usage 
 
-You will need to either install your distribution's version of `distrobox` or do it the rootless way 
+You will need to either install your distribution's version of `distrobox` or do it [the rootless way](https://github.com/89luca89/distrobox#alternative-methods) 
 
 ### instructions
-Simply run the script you want using `bash [script].sh`
+Simply run the script you want using `bash [script].sh` -- or copy-and-paste at will
 
 ## contents
 
@@ -25,5 +25,5 @@ Simply run the script you want using `bash [script].sh`
 Given that this is a collection of scripts and associated instructions that anyone can figure out by trial and error, CC0 seems sufficient. 
 Distrobox is licensed under GPL-3.0
 
-Enjoy 
+Enjoy! 
 
